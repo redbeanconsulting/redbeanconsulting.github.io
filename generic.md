@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
+title: Description
+description: Red Bean Consulting is a Consulting firm providing consulting in Financial Services, Healthcare and Retail Domains
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
