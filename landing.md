@@ -1,7 +1,7 @@
 ---
 title: Advanced Analytics and Machine Learning
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Our data scientists can help you build predictive models, perform business analysis, <br />and implement machine learning algorithms to generate actionable insights and drive business value.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
