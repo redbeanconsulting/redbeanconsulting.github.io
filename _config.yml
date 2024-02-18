@@ -6,10 +6,10 @@ description: Please see our services and contact information below<br />
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://redbeanconsulting.github.io" # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Toronto
-state: ON
-zip_code: 55555
+street_address: 1644 Northmount Avenue
+city: Mississauga
+state: Ontario
+zip_code: L5E1Z1
 country: Canada
 phone: (630) 632-4790
 
