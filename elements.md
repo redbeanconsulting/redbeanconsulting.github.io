@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Services
-description: Consulting <br/>Advanced  Analytics and Machine Learning <br/>Data Engineering Services
+description: Consulting <br/>Data and ML Engineering <br/>Advanced  Analytics and Machine Learning
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
