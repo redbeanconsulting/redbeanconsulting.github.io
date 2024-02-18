@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Consulting
-description: Our data science consulting services are designed to help you understand how to use data science effectively in your business. We work closely with your team to identify your goals, analyze your data, and develop a customized strategy that aligns with your objectives. Our consulting services include creating data strategy and roadmap, data assessment and gap analysis as well as project management for data science projects.
+title: Data and ML Engineering
+description: Our data engineering services help build, manage, and optimize data infrastructures for improved performance and reliability. We offer architecture design, pipeline development, quality management, and performance optimization. For ML engineering, we develop and integrate custom ML models, provide monitoring and maintenance, ensure interpretability, and offer data labeling and annotation. We help enterprises achieve their data goals with robust solutions tailored to their specific needs.
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
