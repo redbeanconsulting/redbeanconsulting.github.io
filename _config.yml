@@ -1,6 +1,6 @@
 # site settings
-title: Quick review
-subtitle: of us
+title: Home
+subtitle: Page
 email: redbeanconsulting@gmail.com
 description: Please see our services and contact information below<br /> 
 baseurl: "" # the subpath of your site, e.g. /blog
