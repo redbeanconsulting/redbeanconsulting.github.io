@@ -1,0 +1,6 @@
+---
+---
+{% capture first_char %}{{ page.description | slice: 0, 1 }}{% endcapture %}
+{% assign first_char_up = first_char | upcase %}
+{% assign rest = page.description | slice: 1, page.description.size | prepend: first_char_up %}
+$description_camel_case: '{{ rest }}';
