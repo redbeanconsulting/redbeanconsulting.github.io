@@ -51,7 +51,7 @@ nav-menu: false
 			<li><b>Fraud Detection</b>: We can develop fraud detection models that identify suspicious claims, helping companies reduce losses due to fraudulent activities. Our solutions enhance the effectiveness of risk management strategies.</li>
 		</ul>
   
-
+<!--
 <div class="4u 12u$(medium)">
 		<h3>Interdum sapien gravida</h3>
 		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
@@ -76,7 +76,7 @@ Finally, this is a <a href="#">link</a>.</p>
 <h4>Heading Level 4</h4>
 <hr />
 <p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
--->
+
 <!-- Lists -->
 <h3>Lists</h3>
 
