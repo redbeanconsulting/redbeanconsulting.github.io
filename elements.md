@@ -42,6 +42,7 @@ nav-menu: false
 <hr class="major" />
 
 <div class="row">
+	<div class="inner">
 <h4 id="content">Example projects: Take a look for type of projects we can assisst in</h4>
 <ul>
 			<li><b>Customer Journey Mapping</b>: We can help enterprises gain a deeper understanding of their customers' journey by analyzing data from multiple touchpoints. By identifying pain points and opportunities, we enable you to create personalized experiences that drive customer satisfaction and loyalty.</li>
