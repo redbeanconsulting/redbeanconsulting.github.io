@@ -12,9 +12,9 @@ nav-menu: true
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<header class="major">
-			<h1>Data and ML Engineering</h1>
-		</header>
+		<!--<header class="major">
+			<h1></h1>
+		</header> -->
 
 <!-- Content -->
 
@@ -42,7 +42,7 @@ nav-menu: true
 <hr class="major" />
 
 <div class="row">
-	<div class="6u 12u$(small)">
+	<!--<div class="6u 12u$(small)">-->
 
 		<h4>Why Choose Us?</h4>
 		<ul>
