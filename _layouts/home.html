@@ -19,7 +19,10 @@
                 <h1>{{ page.landing-title }}</h1>
             </header>
             <div class="content">
+		    {% comment %}
+<!-- This forces the description text to be displayed in all uppercase -->
                 <p style="text-transform: uppercase;">{{ site.description }}</p>
+		    {% endcomment %}
                 <ul class="actions">
                     <li><a href="#one" class="button next scrolly">Get Started</a></li>
                 </ul>
