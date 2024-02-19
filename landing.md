@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Advanced Analytics and Machine Learning</h2>
 		</header>
-		<p>Our data scientists can help you build predictive models, perform business analysis, and implement machine learning algorithms to generate actionable insights and drive business value.</p>
+		<p>Our Advanced Analytics and Machine Learning services help organizations unlock the full potential of their data by applying cutting-edge algorithms and techniques. Leveraging the power of machine learning, we help businesses gain valuable insights, make data-driven decisions, and drive innovation.</p>
 	</div>
 </section>
 
@@ -28,12 +28,12 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Consulting</h3>
+					<h3>Predictive Analytics:</h3>
 				</header>
-				<p>Our data science consulting services are designed to help you understand how to use data science effectively in your business. We work closely with your team to identify your goals, analyze your data, and develop a customized strategy that aligns with your objectives. Our consulting services include creating data strategy and roadmap, data assessment and gap analysis as well as project management for data science projects. </p>
-				<ul class="actions">
+				<p>We help organizations predict future outcomes by analyzing historical data and identifying patterns and trends. Our predictive models enable businesses to anticipate customer behavior, optimize processes, and mitigate risks.</p>
+				<!--<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
+				</ul>-->
 			</div>
 		</div>
 	</section>
@@ -44,9 +44,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Data and ML Engineering</h3>
+					<h3>Prescriptive Analytics</h3>
 				</header>
-				<p>Our data engineering services help build, manage, and optimize data infrastructures for improved performance and reliability. We offer architecture design, pipeline development, quality management, and performance optimization. For ML engineering, we develop and integrate custom ML models, provide monitoring and maintenance, ensure interpretability, and offer data labeling and annotation. We help enterprises achieve their data goals with robust solutions tailored to their specific needs.</p>
+				<p>We go beyond predicting outcomes to providing actionable recommendations. Our prescriptive analytics solutions help businesses identify the best course of action to achieve their goals, based on data-driven insights.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -60,9 +60,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>Natural Language Processing and Language Modeling Services</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>We specialize in advanced Natural Language Processing (NLP) and Language Modeling (LLM) solutions, including sentiment analysis, chatbot development, and text summarization. Our customized, innovative services ensure tailored solutions for diverse client needs.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -75,7 +75,7 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Data Science Services</h2>
+			<h2></h2>
 		</header>
 		<p>At Red Bean consulting, we specialize in providing data science solutions to help your enterprise make informed decisions and unlock valuable insights from your data. Our team of experts has extensive experience in data science, machine learning, data engineering, and more. Whether you're a startup or an established enterprise, we can help you build, deploy, and maintain robust data science solutions that drive business growth and innovation.</p>
 		<ul class="actions">
