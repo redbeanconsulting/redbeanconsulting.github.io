@@ -28,7 +28,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Predictive Analytics:</h3>
+					<h3>Predictive Analytics</h3>
 				</header>
 				<p>We help organizations predict future outcomes by analyzing historical data and identifying patterns and trends. Our predictive models enable businesses to anticipate customer behavior, optimize processes, and mitigate risks.</p>
 				<!--<ul class="actions">
@@ -47,9 +47,9 @@ nav-menu: true
 					<h3>Prescriptive Analytics</h3>
 				</header>
 				<p>We go beyond predicting outcomes to providing actionable recommendations. Our prescriptive analytics solutions help businesses identify the best course of action to achieve their goals, based on data-driven insights.</p>
-				<ul class="actions">
+				<!--<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
+				</ul>-->
 			</div>
 		</div>
 	</section>
@@ -63,9 +63,9 @@ nav-menu: true
 					<h3>Natural Language Processing and Language Modeling Services</h3>
 				</header>
 				<p>We specialize in advanced Natural Language Processing (NLP) and Language Modeling (LLM) solutions, including sentiment analysis, chatbot development, and text summarization. Our customized, innovative services ensure tailored solutions for diverse client needs.</p>
-				<ul class="actions">
+				<!--<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
+				</ul>-->
 			</div>
 		</div>
 	</section>
