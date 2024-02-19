@@ -47,9 +47,11 @@ nav-menu: true
 					<h3>Prescriptive Analytics</h3>
 				</header>
 				<p>We go beyond predicting outcomes to providing actionable recommendations. Our prescriptive analytics solutions help businesses identify the best course of action to achieve their goals, based on data-driven insights.</p>
-				<!--<ul class="actions">
+				<!--
+				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>-->
+				</ul>
+				-->
 			</div>
 		</div>
 	</section>
@@ -62,10 +64,12 @@ nav-menu: true
 				<header class="major">
 					<h3>Natural Language Processing and Language Modeling Services</h3>
 				</header>
-				<p>We specialize in advanced Natural Language Processing (NLP) and Language Modeling (LLM) solutions, including sentiment analysis, chatbot development, and text summarization. Our customized, innovative services ensure tailored solutions for diverse client needs.</p>
-				<!--<ul class="actions">
+				<p>We specialize in advanced Natural Language Processing (NLP) and Large Language Modeling (LLM) solutions, including sentiment analysis, chatbot development, and text summarization. Our customized, innovative services ensure tailored solutions for diverse client needs.</p>
+				<!--
+				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>-->
+				</ul>
+				-->
 			</div>
 		</div>
 	</section>
