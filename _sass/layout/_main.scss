@@ -24,3 +24,21 @@
 			border-bottom: solid 1px _palette(border);
 		}
 	}
+
+.description {
+  font-size: 18px;
+  color: #333;
+  text-transform: capitalize; /* Forcing capitalization on description */
+  text-decoration: none;
+  margin-bottom: 10px;
+  line-height: 1.4;
+  font-style: italic;
+}
+
+.description::before {
+  content: '';
+}
+
+.description::after {
+  content: '{{ $description_camel_case }}';
+}
