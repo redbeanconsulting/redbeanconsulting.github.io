@@ -51,7 +51,7 @@ nav-menu: false
 			<li><b>Fraud Detection</b>: We can develop fraud detection models that identify suspicious claims, helping companies reduce losses due to fraudulent activities. Our solutions enhance the effectiveness of risk management strategies.</li>
 		</ul>
   
-<!--
+{% comment %}
 <div class="4u 12u$(medium)">
 		<h3>Interdum sapien gravida</h3>
 		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
@@ -59,12 +59,12 @@ nav-menu: false
 
 
 
-
+<!-- Elements -->
 <h2 id="elements">Elements</h2>
 <div class="row 200%">
 	<div class="6u 12u$(medium)">
 
-
+<!-- Text stuff -->
 <h3>Text</h3>
 <p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
 This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
@@ -416,5 +416,5 @@ print 'It took ' + i + ' iterations to sort the deck.';
 
 </div>
 
--->
+{% endcomment %}
 
