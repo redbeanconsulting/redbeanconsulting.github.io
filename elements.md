@@ -13,20 +13,20 @@ nav-menu: false
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Elements</h1>
+			<h1>Consulting Services</h1>
 		</header>
 
 <!-- Content -->
-<h2 id="content">Sample Content</h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<h2 id="content">Bridging the Gap Between Business and Technology</h2>
+<p>Our consulting services are designed to empower businesses by bridging the gap between business needs and technological capabilities. Leveraging our expertise, we offer a unique blend of strategic guidance and hands-on execution to help organizations realize their data-driven potential.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>Sem turpis amet semper</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>A Multidisciplinary Approach</h3>
+		<p>Our consulting team consists of seasoned professionals with expertise in various domains, including Product Ownership, Agile Project Management, and Data Science/Analytics. We bring together diverse skill sets to address the specific needs of your organization.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Magna odio tempus commodo</h3>
-		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
+		<h3>End-to-End Support</h3>
+		<p>From understanding stakeholder requirements to leading end-to-end model development, we provide comprehensive support at every stage of the project lifecycle. Our team works closely with your stakeholders to identify business goals, create feature roadmaps, and develop models that align with your objectives.</p>
 	</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
@@ -34,12 +34,12 @@ nav-menu: false
 		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
 	</div>
 	<div class="4u 12u$(medium)">
-		<h3>Faucibus consequat lorem</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>Focused on Adoption</h3>
+		<p>We understand that successful implementation is key to realizing the full potential of data science projects. That's why our consulting services are not just about building models; we focus on ensuring adoption. We design and deploy models with user-friendly interfaces, integrate them into your existing systems, and provide training and support to ensure seamless integration into your operations.</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
-		<h3>Accumsan montes viverra</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>Empowering Your Business</h3>
+		<p>Our consulting services are not just about delivering a product; they are about empowering your business with the knowledge, tools, and insights needed to thrive in a data-driven world. Whether you're looking to improve customer engagement, optimize operations, or innovate new products, our consulting services can help you achieve your goals.</p>
 	</div>
 </div>
 
@@ -68,11 +68,11 @@ Finally, this is a <a href="#">link</a>.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
 
-		<h4>Unordered</h4>
+		<h4>Example projects: Take a look for type of projects we can assisst in</h4>
 		<ul>
-			<li>Dolor etiam magna etiam.</li>
-			<li>Sagittis lorem eleifend.</li>
-			<li>Felis dolore viverra.</li>
+			<li>Customer Journey Mapping: We can help enterprises gain a deeper understanding of their customers' journey by analyzing data from multiple touchpoints. By identifying pain points and opportunities, we enable you to create personalized experiences that drive customer satisfaction and loyalty.</li>
+			<li>Underwriting Improvement: We help insurance companies improve underwriting accuracy by leveraging predictive modeling and analytics. By analyzing historical data, we identify patterns and develop models that assess risk more accurately.</li>
+			<li>Fraud Detection: We develop fraud detection models that identify suspicious claims, helping insurance companies reduce losses due to fraudulent activities. Our solutions enhance the effectiveness of risk management strategies.</li>
 		</ul>
 
 		<h4>Alternate</h4>
