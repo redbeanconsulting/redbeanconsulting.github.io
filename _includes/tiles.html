@@ -11,7 +11,7 @@
     </span>
     <header class="major">
       <h3><a href="{{ tile.url  | relative_url }}" class="link">{{ tile.title }}</a></h3>
-      <p:first-letter style="text-transform: uppercase;">{{ tile.description }}</p>
+      <p { text-transform: lowercase;} p:first-letter { text-transform: uppercase;}>{{ tile.description }}</p>
     </header>
   </article>
   {% endfor %}
