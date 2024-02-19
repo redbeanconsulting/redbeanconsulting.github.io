@@ -47,11 +47,16 @@ nav-menu: false
 		<h4>Example projects: Take a look for type of projects we can assisst in</h4>
 		<ul>
 			<li><b>Customer Journey Mapping</b>: We can help enterprises gain a deeper understanding of their customers' journey by analyzing data from multiple touchpoints. By identifying pain points and opportunities, we enable you to create personalized experiences that drive customer satisfaction and loyalty.</li>
-			<li><b>Underwriting Improvement</b>: We help insurance companies improve underwriting accuracy by leveraging predictive modeling and analytics. By analyzing historical data, we identify patterns and develop models that assess risk more accurately.</li>
-			<li><b>Fraud Detection</b>: We develop fraud detection models that identify suspicious claims, helping insurance companies reduce losses due to fraudulent activities. Our solutions enhance the effectiveness of risk management strategies.</li>
+			<li><b>Underwriting Improvement</b>: We can help insurance/finance companies improve underwriting accuracy by leveraging predictive modeling and analytics. By analyzing historical data, we identify patterns and develop models that assess risk more accurately.</li>
+			<li><b>Fraud Detection</b>: We can develop fraud detection models that identify suspicious claims, helping companies reduce losses due to fraudulent activities. Our solutions enhance the effectiveness of risk management strategies.</li>
 		</ul>
   
 <!-- //Commenting to operationalize 
+<div class="4u 12u$(medium)">
+		<h3>Interdum sapien gravida</h3>
+		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+	</div>
+
 
 <!-- Elements -->
 <h2 id="elements">Elements</h2>
@@ -401,7 +406,7 @@ while (!deck.isInOrder()) {
 
 print 'It took ' + i + ' iterations to sort the deck.';
 </code></pre>
-
+-->
 </div>
 </div>
 
@@ -410,9 +415,5 @@ print 'It took ' + i + ' iterations to sort the deck.';
 
 </div>
 
-<div class="4u 12u$(medium)">
-		<h3>Interdum sapien gravida</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	</div>
 
--->
+
