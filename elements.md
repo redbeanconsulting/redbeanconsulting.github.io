@@ -29,21 +29,29 @@ nav-menu: false
 		<p>From understanding stakeholder requirements to leading end-to-end model development, we provide comprehensive support at every stage of the project lifecycle. Our team works closely with your stakeholders to identify business goals, create feature roadmaps, and develop models that align with your objectives.</p>
 	</div>
 	<!-- Break -->
-	<div class="4u 12u$(medium)">
-		<h3>Interdum sapien gravida</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	</div>
-	<div class="4u 12u$(medium)">
+	<div class="6u 12u$(small)">
 		<h3>Focused on Adoption</h3>
 		<p>We understand that successful implementation is key to realizing the full potential of data science projects. That's why our consulting services are not just about building models; we focus on ensuring adoption. We design and deploy models with user-friendly interfaces, integrate them into your existing systems, and provide training and support to ensure seamless integration into your operations.</p>
 	</div>
-	<div class="4u$ 12u$(medium)">
+	<div class="6u 12u$(small)">
 		<h3>Empowering Your Business</h3>
 		<p>Our consulting services are not just about delivering a product; they are about empowering your business with the knowledge, tools, and insights needed to thrive in a data-driven world. Whether you're looking to improve customer engagement, optimize operations, or innovate new products, our consulting services can help you achieve your goals.</p>
 	</div>
 </div>
 
 <hr class="major" />
+
+<div class="row">
+	<div class="6u 12u$(small)">
+
+		<h4>Example projects: Take a look for type of projects we can assisst in</h4>
+		<ul>
+			<li><b>Customer Journey Mapping</b>: We can help enterprises gain a deeper understanding of their customers' journey by analyzing data from multiple touchpoints. By identifying pain points and opportunities, we enable you to create personalized experiences that drive customer satisfaction and loyalty.</li>
+			<li><b>Underwriting Improvement</b>: We help insurance companies improve underwriting accuracy by leveraging predictive modeling and analytics. By analyzing historical data, we identify patterns and develop models that assess risk more accurately.</li>
+			<li><b>Fraud Detection</b>: We develop fraud detection models that identify suspicious claims, helping insurance companies reduce losses due to fraudulent activities. Our solutions enhance the effectiveness of risk management strategies.</li>
+		</ul>
+  
+<!-- //Commenting to operationalize 
 
 <!-- Elements -->
 <h2 id="elements">Elements</h2>
@@ -65,15 +73,6 @@ Finally, this is a <a href="#">link</a>.</p>
 
 <!-- Lists -->
 <h3>Lists</h3>
-<div class="row">
-	<div class="6u 12u$(small)">
-
-		<h4>Example projects: Take a look for type of projects we can assisst in</h4>
-		<ul>
-			<li>Customer Journey Mapping: We can help enterprises gain a deeper understanding of their customers' journey by analyzing data from multiple touchpoints. By identifying pain points and opportunities, we enable you to create personalized experiences that drive customer satisfaction and loyalty.</li>
-			<li>Underwriting Improvement: We help insurance companies improve underwriting accuracy by leveraging predictive modeling and analytics. By analyzing historical data, we identify patterns and develop models that assess risk more accurately.</li>
-			<li>Fraud Detection: We develop fraud detection models that identify suspicious claims, helping insurance companies reduce losses due to fraudulent activities. Our solutions enhance the effectiveness of risk management strategies.</li>
-		</ul>
 
 		<h4>Alternate</h4>
 		<ul class="alt">
@@ -410,3 +409,10 @@ print 'It took ' + i + ' iterations to sort the deck.';
 </section>
 
 </div>
+
+<div class="4u 12u$(medium)">
+		<h3>Interdum sapien gravida</h3>
+		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+	</div>
+
+-->
