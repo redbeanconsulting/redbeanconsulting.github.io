@@ -1,6 +1,6 @@
 ---
 title: Advanced Analytics and Machine Learning
-layout: page
+layout: landing
 description: 'Our data scientists can help you build predictive models, perform business analysis, and implement machine learning algorithms to generate actionable insights and drive business value.'
 image: assets/images/pic07.jpg
 nav-menu: true
