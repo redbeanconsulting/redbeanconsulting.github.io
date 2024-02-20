@@ -12,9 +12,9 @@ nav-menu: true
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<header class="major">
+		<!--<header class="major">
 			<h2></h2>
-		</header>
+		</header>-->
 		<p>Our Advanced Analytics and Machine Learning services help organizations unlock the full potential of their data by applying cutting-edge algorithms and techniques. Leveraging the power of machine learning, we help businesses gain valuable insights, make data-driven decisions, and drive innovation.</p>
 	</div>
 </section>
