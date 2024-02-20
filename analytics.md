@@ -82,9 +82,9 @@ nav-menu: true
 			<h2></h2>
 		</header>
 		<p>At Red Bean consulting, we specialize in providing data science solutions to help your enterprise make informed decisions and unlock valuable insights from your data. Our team of experts has extensive experience in data science, machine learning, data engineering, and more. Whether you're a startup or an established enterprise, we can help you build, deploy, and maintain robust data science solutions that drive business growth and innovation.</p>
-		<ul class="actions">
+	<!--	<ul class="actions">
 			<li><a href="generic.html" class="button next">Get Started</a></li>
-		</ul>
+		</ul> -->
 	</div>
 </section>
 
