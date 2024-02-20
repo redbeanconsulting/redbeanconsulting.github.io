@@ -1,7 +1,7 @@
 ---
 title: Advanced Analytics and Machine Learning
 layout: landing
-description: <p style="font-family: Calibri, sans-serif; font-size: 12px;">'Our data scientists can help you build predictive models, perform business analysis, and implement machine learning algorithms to generate actionable insights and drive business value.' </p>
+description:'Our data scientists can help you build predictive models, perform business analysis, and implement machine learning algorithms to generate actionable insights and drive business value.' 
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
