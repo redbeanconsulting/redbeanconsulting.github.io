@@ -42,8 +42,8 @@ nav-menu: true
 <hr class="major" />
 
 <div class="row">
-	<div class="inner">
-<h4>Take a look at type of projects we can assisst in: </h4></div></div>
+	<div class="inner"> </div></div>
+<h4>Take a look at type of projects we can assisst in: </h4>
 <ul>
 			<li><b>Customer Journey Mapping</b>: We can help enterprises gain a deeper understanding of their customers' journey by analyzing data from multiple touchpoints. By identifying pain points and opportunities, we enable you to create personalized experiences that drive customer satisfaction and loyalty.</li>
 			<li><b>Underwriting Improvement</b>: We can help insurance/finance companies improve underwriting accuracy by leveraging predictive modeling and analytics. By analyzing historical data, we identify patterns and develop models that assess risk more accurately.</li>
