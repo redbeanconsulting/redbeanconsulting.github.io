@@ -14,7 +14,7 @@ nav-menu: true
 	<div class="inner">
 		<!--<header class="major">
 			<h1></h1>
-		</header> -->
+		</header> 
 
 <!-- Content -->
 
