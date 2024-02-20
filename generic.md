@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Data and ML Engineering
 description: Our data engineering services help build, manage, and optimize data infrastructures for improved performance and reliability. We offer architecture design, pipeline development, quality management, and performance optimization. For ML engineering, we develop and integrate custom ML models, provide monitoring and maintenance, ensure interpretability, and offer data labeling and annotation. We help enterprises achieve their data goals with robust solutions tailored to their specific needs.
 image: assets/images/pic11.jpg
